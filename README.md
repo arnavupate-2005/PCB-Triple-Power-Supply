@@ -1,5 +1,6 @@
 Triple Voltage Power Supply PCB
 Designed by: Arnav Upate
+![image](https://github.com/user-attachments/assets/516c2eab-8a66-4221-997e-75bdd176236d)
 
 
 Overview
@@ -66,3 +67,5 @@ Do not exceed regulator current ratings (typically 1A for TO-220 packages withou
 Double-check polarity before applying power.
 
 Mount the regulators to a heatsink if operating near full load
+
+
