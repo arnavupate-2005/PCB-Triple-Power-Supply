@@ -1,6 +1,8 @@
 Triple Voltage Power Supply PCB
 Designed by: Arnav Upate
 ![image](https://github.com/user-attachments/assets/516c2eab-8a66-4221-997e-75bdd176236d)
+![image](https://github.com/user-attachments/assets/dd573bbc-0d5b-4430-b39d-f1e449732c60)
+
 
 
 Overview
