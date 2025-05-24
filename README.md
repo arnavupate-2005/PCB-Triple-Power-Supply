@@ -56,7 +56,8 @@ Each output rail has an associated status LED to indicate proper voltage regulat
 Be mindful of the maximum current rating of each voltage regulator.
 
 Design Notes
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/43bcc164-9a7d-4c0c-95b9-a8a2187d7d6a)
+
 
 Linear Regulators are used, so proper heat dissipation is required. Each regulator has a heatsink pad to handle thermal load.
 
